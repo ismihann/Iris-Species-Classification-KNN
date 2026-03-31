@@ -1,5 +1,6 @@
 
 Iris Species Classification with KNN
+
 Bu proje, makine öğrenmesi dünyasının klasiklerinden biri olan Iris Veri Seti üzerinde K-En Yakın Komşu (K-Nearest Neighbors - KNN) algoritmasını kullanarak çiçek türlerini sınıflandırmayı amaçlamaktadır. Proje kapsamında veri ön işleme, model eğitimi, başarı metriklerinin analizi ve karar sınırlarının görselleştirilmesi yapılmıştır.
 
  Proje İçeriği ve Adımları

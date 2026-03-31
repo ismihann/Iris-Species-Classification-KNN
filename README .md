@@ -1,4 +1,8 @@
-Proje İçeriği ve Adımları
+
+Iris Species Classification with KNN
+Bu proje, makine öğrenmesi dünyasının klasiklerinden biri olan Iris Veri Seti üzerinde K-En Yakın Komşu (K-Nearest Neighbors - KNN) algoritmasını kullanarak çiçek türlerini sınıflandırmayı amaçlamaktadır. Proje kapsamında veri ön işleme, model eğitimi, başarı metriklerinin analizi ve karar sınırlarının görselleştirilmesi yapılmıştır.
+
+ Proje İçeriği ve Adımları
 1. Veri Keşfi ve Ön İşleme
 Veri seti yüklendi ve eksik değer kontrolü yapıldı.
 
@@ -36,3 +40,5 @@ Scikit-Learn: Makine öğrenmesi modeli ve metrikler.
 
 📈 Sonuçlar
 Model, Iris-Setosa, Iris-Versicolor ve Iris-Virginica türlerini kusursuz bir şekilde birbirinden ayırabilmektedir. K değerinin seçimi, modelin genelleme yeteneği üzerinde doğrudan etkilidir.
+
+ Iris-Virginica türlerini kusursuz bir şekilde birbirinden ayırabilmektedir. K değerinin seçimi, modelin genelleme yeteneği üzerinde doğrudan etkilidir.
